@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahlikipps&label=Profile%20views&color=0e75b6&style=flat" alt="tahlikipps" /> </p>
 
-- 🌱 I’m currently learning **React, Node.js** and continuing developing in Rails.
+- 🌱 I’m currently learning **React, Node.js** and continuing developing in **Rails**.
 
 - 📫 How to reach me 
 
 <a align="right" href="https://www.linkedin.com/in/tahlikipps/">
-  <img src="https://img.shields.io/badge/linkedin-ff69b4?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a align="right" href="mailto:tahli.kipps@gmail.com">
