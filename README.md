@@ -7,6 +7,7 @@
 
 
 📫 **How to reach me**
+
 <a align="right" href="https://www.linkedin.com/in/tahlikipps/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
