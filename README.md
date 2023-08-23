@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tahli</h1>
-<h3 align="center">A full stack developer from Australia, with front-end leanings :)</h3>
+<h3 align="center">A full stack developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahlikipps&label=Profile%20views&color=0e75b6&style=flat" alt="tahlikipps" /> </p>
 
